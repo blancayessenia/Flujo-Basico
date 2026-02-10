@@ -1,3 +1,6 @@
+# PRACTICA 1-Flujo basico de git y github
+primera practica con el flujo de git, sola blanca
+
 # PRACTICA 2  CONCEPTOS BASICOS
 1. ¿Qué es una Base De Datos Relacional?
 es una base de datosque organiza la informacion en trablas relacionadas entre si.usa logicas normalmente mediante claves para conectar datos de distintas tablas y evitar duplicidad, manteniendo la información consistente,
